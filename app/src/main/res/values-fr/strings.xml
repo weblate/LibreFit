@@ -144,9 +144,9 @@
     <string name="open_the_workout">Ouvrir l\'\'entraînement du</string>
     <string name="start_adding_exercises">Commencez par ajouter un exercice à votre routine</string>
     <string name="title">Titre</string>
-    <string name="title_cannot_be_empty">Le titre ne peut pas être vide.</string>
+    <string name="title_cannot_be_empty">Le titre ne peut pas être vide</string>
     <string name="edit_routine">Modifier la routine</string>
-    <string name="edit_workout">Modifier l’entrainement</string>
+    <string name="edit_workout">Modifier l’entraînement</string>
     <string name="reps">Répétitions</string>
     <string name="reorder">Réorganiser</string>
     <string name="restart_app">Redémarrer</string>
