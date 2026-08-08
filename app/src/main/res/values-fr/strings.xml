@@ -5,12 +5,12 @@
     <string name="profile">Profil</string>
     <string name="settings">Paramètres</string>
     <string name="about">À propos</string>
-    <string name="add_exercise">Ajouter de l\'exercice</string>
+    <string name="add_exercise">Ajouter un exercice</string>
     <string name="more_options">Plus d\'options</string>
     <string name="navigate_back">Retour à l\'écran précédent</string>
     <string name="library">Bibliothèque</string>
     <string name="open">Ouvrir</string>
-    <string name="copy">Copie</string>
+    <string name="copy">Copier</string>
     <string name="support_project">Soutenez le projet</string>
     <string name="donate">Faire un don</string>
     <string name="contribute">Contribuer</string>
@@ -33,11 +33,11 @@
     <string name="donators">Donateurs</string>
     <string name="unlink_routine_question">Dissocier la routine ?</string>
     <string name="unlink_routine_text">Lier des séances d\'entraînement permet de suivre la progression de vos séances au fil du temps. Si vous dissociez cette séance d\'entraînement d\'une séance, cette dernière ne sera pas supprimée et les séances qui y sont liées resteront inchangées. La dissociation n\'affectera que la séance d\'entraînement en cours.</string>
-    <string name="overview">Panorama</string>
+    <string name="overview">Vue d\'ensemble</string>
     <string name="statistics">Statistiques</string>
     <string name="volume">Volume</string>
-    <string name="total_sets">Ensembles totaux</string>
-    <string name="completed_sets">Ensembles complets</string>
+    <string name="total_sets">Nombre de séries</string>
+    <string name="completed_sets">Séries complétées</string>
     <string name="exercises">Exercices</string>
     <string name="routine">Routine</string>
     <string name="creation_date">Date de création</string>
@@ -161,7 +161,7 @@
     <string name="application_encountered_error">Une erreur inattendue est survenue</string>
     <string name="stack_trace_not_available">Trace d\'exécution non disponible</string>
     <string name="quit_adding_exercises_question">Arrêter l\'ajout d\'exercices ?</string>
-    <string name="exit_create_routine">Êtes-vous sûrs de vouloir quitter ? Votre routine ne sera pas sauvegardée</string>
+    <string name="exit_create_routine">Êtes-vous sûr de vouloir quitter ? Votre routine ne sera pas sauvegardée</string>
     <string name="load_only">Charge uniquement</string>
     <string name="title_length_exceeded_30">Le titre ne peut pas dépasser 30 caractères</string>
     <string name="crash_log">Journal de crash</string>
@@ -354,4 +354,13 @@
     <string name="tut_complete_workout_2">En démarrant depuis une routine, vos exercices prévus apparaissent directement. Vous pouvez aussi en rajouter au fil de la séance.</string>
     <string name="equipment_pull_up_bar">Barre de traction</string>
     <string name="equipment_rings">Anneaux</string>
+    <string name="public_key_not_initialized_properly">Initialisation incorrecte de la clé publique</string>
+    <string name="status">Statut</string>
+    <string name="language">Langue</string>
+    <string name="imperial">Impérial</string>
+    <string name="show_images_desc">Les images des exercices seront affichées</string>
+    <string name="hide_images_desc">Les images des exercices seront cachées</string>
+    <string name="show_images">Afficher les images</string>
+    <string name="show">Afficher</string>
+    <string name="hide">Cacher</string>
 </resources>
