@@ -363,4 +363,15 @@
     <string name="show_images">Afficher les images</string>
     <string name="show">Afficher</string>
     <string name="hide">Cacher</string>
+    <string name="metric">Système métrique</string>
+    <string name="motivation_2">Je consacre d’innombrables heures à la conception, au développement et au peaufinage de chaque détail afin de vous offrir la meilleure expérience possible. C’est un engagement envers vous, l’utilisateur, et envers un meilleur monde numérique.</string>
+    <string name="quit_adding_exercises_text">Êtes-vous certain de vouloir quitter ? Vos exercices sélectionnés ne seront pas ajoutés</string>
+    <string name="warning">Avertissement</string>
+    <string name="confirm_delete">Êtes-vous certain de vouloir supprimer ceci ? Cette action est irréversible.</string>
+    <string name="discard_running_workout_question">Annuler l’entraînement en cours ?</string>
+    <string name="delete_running_workout_text">Êtes vous certain de vouloir annuler cet entraînement non sauvegardé ? Cette action est irréversible.</string>
+    <string name="notifications_permission_desc">Cela permet d’envoyer des notifications concernant les séances d’entraînement en cours et les intervalles de repos.</string>
+    <string name="week_streak">Semaines d’affilée :</string>
+    <string name="quit_workout_text">Êtes-vous certain de vouloir quitter ? Votre entraînement ne sera pas sauvegardé</string>
+    <string name="unit_system">Unité de mesure</string>
 </resources>
