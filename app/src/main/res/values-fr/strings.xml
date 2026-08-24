@@ -374,4 +374,5 @@
     <string name="week_streak">Semaines d’affilée :</string>
     <string name="quit_workout_text">Êtes-vous certain de vouloir quitter ? Votre entraînement ne sera pas sauvegardé</string>
     <string name="unit_system">Unité de mesure</string>
+    <string name="discard_running_workout_and_select_routine_text">Pour commencer cette routine l\'entraînement en cours non enregistré doit être abandonné. Êtes vous certain de vouloir l\'annuler ? Cette action est irréversible.</string>
 </resources>
