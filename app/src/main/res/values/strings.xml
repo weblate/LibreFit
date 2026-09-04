@@ -8,6 +8,8 @@
 
 <resources>
     <string name="app_name">LibreFit</string>
+    <string name="app_name_first_part">Libre</string>
+    <string name="app_name_second_part">Fit</string>
 
     <!--Navigation-->
     <string name="home">Home</string>
@@ -123,6 +125,8 @@
     <string name="url_T_Silverspoon" translatable="false">https://github.com/T-Silverspoon</string>
     <string name="ByYeah" translatable="false">ByYeah</string>
     <string name="url_ByYeah" translatable="false">https://github.com/ByYeah</string>
+    <string name="VanemKrAu" translatable="false">VanemKrAu</string>
+    <string name="url_VanemKrAu" translatable="false">https://github.com/VanemKrAu</string>
 
 
     <!--Before saving screen-->

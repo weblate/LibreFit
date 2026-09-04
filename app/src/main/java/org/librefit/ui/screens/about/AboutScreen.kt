@@ -377,6 +377,16 @@ fun AboutScreen(navController: NavHostController) {
             }
 
             item {
+                AboutItem(
+                    icon = painterResource(R.drawable.ic_person),
+                    text = stringResource(R.string.VanemKrAu),
+                    onClick = {
+                        url.value = resources.getString(R.string.url_VanemKrAu)
+                    }
+                )
+            }
+
+            item {
                 HeadlineText(stringResource(R.string.translators))
             }
 
